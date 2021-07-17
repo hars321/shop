@@ -1,0 +1,14 @@
+@import '../../assets/fonts/style.scss';
+
+// GLOBAL VARIABLES
+$primary-color: #67B342;
+$logo-color: white;
+$logo-font:'Airbnb Cereal App Book';
+
+
+// GLOBAL CLASSES
+center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
